@@ -1,3 +1,6 @@
+#  you will create a shared functions module that will be used by all three search systems.
+#  This promotes code reusability and maintains consistency across different interfaces.
+
 import chromadb
 from chromadb.utils import embedding_functions
 import json
